@@ -1,4 +1,12 @@
 """
+Bio-Hashing: Two-Factor Authentication 
+Source Code
+Authors: Ifeoluwa Adebisi, Babek Nabiee, Fatimata Coly, Moussa Kebe, Lakshaya Sharma
+SDEV 495 6384
+Instructor: Hung Dao
+"""
+
+"""
 Biometric Simulation Module
 
 This module provides functionality for simulating biometric data (fingerprints)

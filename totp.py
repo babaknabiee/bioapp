@@ -1,4 +1,12 @@
 """
+Bio-Hashing: Two-Factor Authentication 
+Source Code
+Authors: Ifeoluwa Adebisi, Babek Nabiee, Fatimata Coly, Moussa Kebe, Lakshaya Sharma
+SDEV 495 6384
+Instructor: Hung Dao
+"""
+
+"""
 Time-based One-Time Password (TOTP) Module
 
 This module provides functionality for generating and verifying TOTP codes

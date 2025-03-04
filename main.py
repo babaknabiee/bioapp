@@ -1,4 +1,12 @@
 """
+Bio-Hashing: Two-Factor Authentication 
+Source Code
+Authors: Ifeoluwa Adebisi, Babek Nabiee, Fatimata Coly, Moussa Kebe, Lakshaya Sharma
+SDEV 495 6384
+Instructor: Hung Dao
+"""
+
+"""
 Main entry point for the Biometric Two-Factor Authentication System.
 
 This module provides a command-line interface for:
